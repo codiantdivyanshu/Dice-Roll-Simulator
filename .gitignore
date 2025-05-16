@@ -1,0 +1,22 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# VS Code and other editor folders
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files (if using virtualenv)
+venv/
+env/
+*.env
+
+# Logs or debug files
+*.log
+
+# macOS or Linux junk
+*.swp
