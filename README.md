@@ -1,23 +1,26 @@
-# 🎲 Dice Roll Simulator
+# 🎲 Dice Roll Simulator in Python
 
-A simple Python program that simulates rolling a 6-sided dice. The user can roll the dice as many times as they want until they choose to quit.
+This is a simple command-line dice roll simulator built using Python. It mimics the behavior of a real six-sided die. Each time you roll, it randomly generates a number between 1 and 6.
+
+---
 
 ## 📌 Features
 
-- Generates a random number between 1 and 6
-- Keeps running until the user decides to quit
-- Simple command-line interface
+- 🎲 Simulates rolling a standard 6-sided die
+- 🔁 Allows continuous rolls until the user quits
+- 🧠 Beginner-friendly code and logic
+- 🖥️ Terminal/console-based interface
 
-## 🚀 How to Run
+---
 
-1. Make sure you have Python installed. You can check by running:
+## 🚀 Getting Started
 
-   ```bash
-   python --version
+### 🛠 Requirements
 
-2. Navigate into the project folder:
- cd Dice-Roll-Simulator
+- Python 3.x
 
-3. Run the Python file:
+### 📥 Installation
 
-python dice_simulator.py
+1. Clone this repository:
+
+  
