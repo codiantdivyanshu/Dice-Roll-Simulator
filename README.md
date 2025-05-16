@@ -15,13 +15,9 @@ A simple Python program that simulates rolling a 6-sided dice. The user can roll
    ```bash
    python --version
 
-2. Clone this repository:
-
-git clone https://github.com/YOUR-USERNAME/dice-roll-simulator.git
-
-3. Navigate into the project folder:
+2. Navigate into the project folder:
  cd Dice-Roll-Simulator
 
-4. Run the Python file:
+3. Run the Python file:
 
 python dice_simulator.py
